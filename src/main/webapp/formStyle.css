@@ -1,0 +1,119 @@
+/*@charset "utf-8";*/
+body {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: smaller;
+    width: 100%;
+}
+
+h1 {
+    color: #B16418;
+    padding-left: 38%;
+}
+
+h2 {
+
+    color: #B16418;
+    padding-left: 35%;
+}
+
+h3, h4, h5, h6 {
+    color: #B16418;
+    padding-left: 30px;
+}
+
+.inputSize{
+    width: 250px;
+}
+
+.outerWrapper {
+    background-color: #FFFFFF;
+    border: 1px solid #727272;
+    height: 520px;
+    margin: 40px auto;
+    position: relative;
+    width: 500px;
+}
+
+td {
+    padding: 10px;
+}
+
+.innerWrapperEmpl {
+    background-color: #C5E7E0;
+    color: #FFDEAD;
+    margin: 40px auto;
+    padding-left: 20px;
+    width: 450px;
+}
+
+.formEmpl {
+    color: #000000;
+    height: 330px;
+    padding-top: 15px;
+}
+span{
+    font-family: Verdana,Arial,sans-serif;
+    color: red;
+    font-size: x-small;
+}
+.submit{
+    margin: 80px auto 0 40%;
+}
+.innerWrapperDept {
+    background-color: #C5E7E0;
+    color: #FFDEAD;
+    margin: 40px auto;
+    padding-left: 20px;
+    width: 450px;
+}
+.formDept{
+    color: #000000;
+    height: 160px;
+    padding-top: 15px;
+}
+.link{
+    background-color: #FFFFFF;
+    height: 1px;
+    margin: 40px auto;
+    position: relative;
+    width: 500px;
+}
+.link a+a{
+    margin: 0 40px;
+}
+
+.login{
+    background-color: #C5E7E0;
+    color: #FFDEAD;
+    margin: 40px auto;
+    padding-left: 20px;
+    width: 450px;
+    height: 190px;
+}
+.formLogin{
+    color: #000000;
+    height: 160px;
+    padding-top: 15px;
+}
+.submitDept{
+    margin: 130px auto 0 40%;
+}
+.wrapperStartPage {
+    background-color: #FFFFFF;
+    border: 1px solid #727272;
+    height: 250px;
+    margin: 40px auto;
+    position: relative;
+    width: 500px;
+}
+
+.linkHomePage{
+
+    height: 1px;
+    margin: 40px auto;
+    padding-left: 120px;
+
+}
+.linkHomePage a+a{
+    margin: 0 40px;
+}

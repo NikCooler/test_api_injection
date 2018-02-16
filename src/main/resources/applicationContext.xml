@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<context>
+    <bean name="txManager" class="com.test.aimprosoft.dao.TransactionManagerImpl"/>
+    <bean name="deptDao" class="com.test.aimprosoft.dao.department.DeptDaoImpl"/>
+    <bean name="employeeDao" class="com.test.aimprosoft.dao.employee.EmployeeDaoImpl"/>
+    <bean name="userDao" class="com.test.aimprosoft.dao.user.UserDaoImpl"/>
+</context>
